@@ -1,0 +1,8 @@
+option explicit
+dim testing as int
+sub createcalculator
+
+cells(1,1) = testing
+
+end sub
+
